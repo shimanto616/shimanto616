@@ -47,17 +47,19 @@ mindset:    Curious, consistent, always building
 
 <div align="center">
 
-| Languages | Frameworks & Databases |
-|:---:|:---:|
-| ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | |
+<img src="https://img.icons8.com/color/48/c-programming.png" width="50" title="C"/>
+<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="50" title="C++"/>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" width="50" title="Java"/>
+<img src="https://img.icons8.com/color/48/python.png" width="50" title="Python"/>
+<img src="https://img.icons8.com/color/48/django.png" width="50" title="Django"/>
+<img src="https://img.icons8.com/color/48/javascript.png" width="50" title="JavaScript"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="50" title="MySQL"/>
 
 </div>
 
 <br>
 
 ##  GitHub Analytics
-
 
 <img src="https://streak-stats.demolab.com?user=shimanto616&theme=tokyonight&hide_border=true" width="60%"/>
 
