@@ -8,7 +8,7 @@
 
 <br>
 
-## 👋 About Me
+##  About Me
 
 - 🎓 Currently studying in the Department of **CSE** at the **University of Asia Pacific**
 - 💻 A software developer who enjoys turning ideas into working applications
@@ -18,7 +18,7 @@
 
 <br>
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 
 <br>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br>
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
