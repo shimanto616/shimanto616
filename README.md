@@ -8,19 +8,6 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/md-seeman-islam-seemanto-0561143a0/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-2E9EF7?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/stoicc._.shimanto" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-Follow-2E9EF7?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://www.facebook.com/shimanto616" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-Follow-2E9EF7?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="mailto:shimanto616@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-Contact-2E9EF7?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
 </div>
 
 <br>
@@ -60,7 +47,7 @@ mindset:    Curious, consistent, always building
 <br>
 
 ##  GitHub Analytics
-
+<div align="center">
 <img src="https://streak-stats.demolab.com?user=shimanto616&theme=tokyonight&hide_border=true" width="60%"/>
 
 <br><br>
@@ -71,15 +58,6 @@ mindset:    Curious, consistent, always building
 
 <br>
 
-##  GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shimanto616&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
-
-</div>
-
-<br>
 
 ##  Connect With Me
 
